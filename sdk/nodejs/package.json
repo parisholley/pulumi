@@ -1,5 +1,5 @@
 {
-    "name": "@pulumi/pulumi",
+    "name": "@parisholley/pulumi",
     "version": "${VERSION}",
     "description": "Pulumi's Node.js SDK",
     "license": "Apache-2.0",

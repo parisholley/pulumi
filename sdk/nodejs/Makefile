@@ -1,6 +1,6 @@
 PROJECT_NAME     := Pulumi Node.JS SDK
-NODE_MODULE_NAME := @pulumi/pulumi
-VERSION          := $(shell ../../scripts/get-version HEAD)
+NODE_MODULE_NAME := @parisholley/pulumi
+VERSION          := 2.6.1
 
 LANGUAGE_HOST    := github.com/pulumi/pulumi/sdk/v2/nodejs/cmd/pulumi-language-nodejs
 
